@@ -1,0 +1,434 @@
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll.config
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.pdb
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe.config
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.rsp
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe.config
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.rsp
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.AppContext.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Console.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Http.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Sockets.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe.config
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.rsp
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CopyComplete
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.dll
+C:\Users\moham\source\repos\ITIFinalProject\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.pdb
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csprojAssemblyReference.cache
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CoreCompileInputs.cache
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.pdb
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll.config
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.pdb
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe.config
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.rsp
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe.config
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.rsp
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.AppContext.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Console.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Http.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Sockets.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.ValueTuple.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe.config
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.rsp
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.dll
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.xml
+E:\blah\ELearning\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CopyComplete
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll.config
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.pdb
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe.config
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.rsp
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe.config
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.rsp
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.AppContext.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Console.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Http.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Sockets.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.ValueTuple.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe.config
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.rsp
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csprojAssemblyReference.cache
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CoreCompileInputs.cache
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CopyComplete
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.pdb
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Newtonsoft.Json.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Owin.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Newtonsoft.Json.xml
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.dll
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.pdb
+E:\FinalProject\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll.config
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.pdb
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe.config
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.rsp
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe.config
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.rsp
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.AppContext.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Console.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Http.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Sockets.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.ValueTuple.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe.config
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.rsp
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Newtonsoft.Json.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Owin.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.pdb
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Newtonsoft.Json.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.xml
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csprojAssemblyReference.cache
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CoreCompileInputs.cache
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CopyComplete
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.dll
+E:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.pdb
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll.config
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\ELearningManagementSystem.pdb
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.exe.config
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csc.rsp
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.exe.config
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\csi.rsp
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.AppContext.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Console.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Globalization.Calendars.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Http.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Net.Sockets.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.ValueTuple.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.exe.config
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\vbc.rsp
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Newtonsoft.Json.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Owin.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.pdb
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\DHTMLX.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.pdb
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.Core.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\Newtonsoft.Json.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Razor.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Deployment.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Webpages.Razor.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Helpers.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\bin\System.Web.Mvc.xml
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csprojAssemblyReference.cache
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CoreCompileInputs.cache
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.csproj.CopyComplete
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.dll
+G:\ITI\The Project\FinalProject\ITIFinalProject\ELearningManagementSystem\obj\Debug\ELearningManagementSystem.pdb
